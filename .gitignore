@@ -1,0 +1,16 @@
+## .gitignore ##
+# ignore all
+*
+
+# allow any
+!*.md
+!src/
+!tools/
+!.gitmodules
+!.gitignore
+!.gitattributes
+!.travis.yml
+!settings.xml
+!pom.xml
+!LICENSE
+!README.md
