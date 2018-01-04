@@ -1,0 +1,2 @@
+# DiscordKeepRole
+Discord鯖に出入りする輩がいてもクソ役職をつけなおしてあげるBot
