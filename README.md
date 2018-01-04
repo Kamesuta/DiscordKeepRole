@@ -1,2 +1,5 @@
 # DiscordKeepRole
 Discord鯖に出入りする輩がいてもクソ役職をつけなおしてあげるBot
+
+Discord4jのモジュールとして動作します。
+ご利用のDiscord4j環境のmodulesフォルダにjarを入れてください。
